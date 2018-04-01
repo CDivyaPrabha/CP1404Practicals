@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34ca14a7-654c-4cda-be2d-8a28a8c46e52" name="Default" comment="">
+    <list default="true" id="34ca14a7-654c-4cda-be2d-8a28a8c46e52" name="Default" comment="Display proper result according to marks.">
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_03/broken_score.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/prac_03/temperatures.py" afterPath="$PROJECT_DIR$/prac_03/temperatures.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,51 +29,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sample.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample exercises/sample.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stock_price_simulator.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prac_02/walkthrough examples/stock_price_simulator.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="print_letter.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prac_03/print_letter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="6" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="temperatures.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prac_01/Walkthrough exercises/temperatures.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="temperatures.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/prac_03/temperatures.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="431">
               <caret line="35" column="19" lean-forward="false" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="broken_score.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prac_01/Intermediate exercises/broken_score.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="broken_score.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prac_03/broken_score.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -107,6 +87,7 @@
         <option value="$PROJECT_DIR$/sample exercises/sample.py" />
         <option value="$PROJECT_DIR$/prac_03/print_letter.py" />
         <option value="$PROJECT_DIR$/prac_03/temperatures.py" />
+        <option value="$PROJECT_DIR$/prac_03/broken_score.py" />
       </list>
     </option>
   </component>
@@ -174,7 +155,7 @@
               <item name="Practicals" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practicals" type="462c0819:PsiDirectoryNode" />
               <item name="prac_01" type="462c0819:PsiDirectoryNode" />
-              <item name="Walkthrough exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="Intermediate exercises" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Practicals" type="b2602c69:ProjectViewProjectNode" />
@@ -345,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522588423229</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Convert fahrenheit to celsius and vice versa in different functions.">
+      <created>1522588459607</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1522588459607</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -383,7 +371,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Print every second letter of a given word." />
     <MESSAGE value="Convert fahrenheit to celsius and vice versa." />
-    <option name="LAST_COMMIT_MESSAGE" value="Convert fahrenheit to celsius and vice versa." />
+    <MESSAGE value="Convert fahrenheit to celsius and vice versa in different functions." />
+    <MESSAGE value="Display proper result according to marks." />
+    <option name="LAST_COMMIT_MESSAGE" value="Display proper result according to marks." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -398,14 +388,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/prac_02/files2.py" />
-    <entry file="file://$PROJECT_DIR$/prac_02/walkthrough examples/stock_price_simulator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prac_02/walkthrough examples/exceptions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -600,6 +582,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="431">
           <caret line="35" column="19" lean-forward="false" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_01/Intermediate exercises/broken_score.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_03/broken_score.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
