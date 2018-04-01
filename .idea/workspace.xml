@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34ca14a7-654c-4cda-be2d-8a28a8c46e52" name="Default" comment="Convert fahrenheit to celsius and vice versa.">
-      <change beforePath="" afterPath="$PROJECT_DIR$/prac_03/temperatures.py" />
+    <list default="true" id="34ca14a7-654c-4cda-be2d-8a28a8c46e52" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/prac_03/print_letter.py" afterPath="$PROJECT_DIR$/prac_03/print_letter.py" />
+      <change beforePath="$PROJECT_DIR$/prac_03/temperatures.py" afterPath="$PROJECT_DIR$/prac_03/temperatures.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -73,8 +72,8 @@
       <file leaf-file-name="temperatures.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/prac_03/temperatures.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            <state relative-caret-position="431">
+              <caret line="35" column="19" lean-forward="false" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -339,7 +338,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522564980030</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Convert fahrenheit to celsius and vice versa.">
+      <created>1522588423229</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1522588423229</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -592,8 +598,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/prac_03/temperatures.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        <state relative-caret-position="431">
+          <caret line="35" column="19" lean-forward="false" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
           <folding />
         </state>
       </provider>
