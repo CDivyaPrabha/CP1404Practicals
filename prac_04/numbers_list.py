@@ -1,3 +1,10 @@
+def findAverage(numbers):
+    total = 0
+    for num in numbers:
+        total += int(num)
+    return total / len(numbers)
+
+
 numbers = []
 print("Enter 5 numbers")
 for i in range(0, 5):
@@ -7,7 +14,7 @@ first_number = numbers[0]
 last_number = numbers[-1]
 smallest_number = min(numbers)
 largest_number = max(numbers)
-average = sum(numbers) / len(numbers)
+average = findAverage(numbers)
 print("The {} number is {}".format("first", str(first_number)))
 print("The {} number is {}".format("last", str(last_number)))
 print("The {} number is {}".format("smallest", str(smallest_number)))
