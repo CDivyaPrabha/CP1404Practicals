@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="34ca14a7-654c-4cda-be2d-8a28a8c46e52" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/prac_04/numbers_list.py" afterPath="$PROJECT_DIR$/prac_04/numbers_list.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,17 +45,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="numbers_list.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/prac_04/numbers_list.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="usernames.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="usernames.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/prac_04/usernames.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
@@ -380,7 +369,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522908327559</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Perform simple calculations on a number list">
+      <created>1522909049139</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1522909049139</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -424,7 +420,8 @@
     <MESSAGE value="Display income report- starter code" />
     <MESSAGE value="Display income report- final code" />
     <MESSAGE value="Display list comprehensions- starter code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Display list comprehensions- starter code" />
+    <MESSAGE value="Perform simple calculations on a number list" />
+    <option name="LAST_COMMIT_MESSAGE" value="Perform simple calculations on a number list" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -646,22 +643,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prac_04/values.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac_04/usernames.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prac_04/list_comprehensions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
@@ -674,6 +655,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_04/values.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_04/usernames.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
